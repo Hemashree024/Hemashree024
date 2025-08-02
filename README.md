@@ -1,4 +1,4 @@
-##Hi there 👋
+## Hi there 👋
 
 💻 **Computer Science Engineering Student**  
 🚀 Passionate about **AI, Machine Learning, Full-Stack Web Development, and Satellite Image Processing**  
