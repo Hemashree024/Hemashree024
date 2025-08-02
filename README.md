@@ -29,8 +29,8 @@ I work on building smart applications using PyTorch, Flask, and React, and use c
 ---
 
 ## 📊 GitHub Stats
-![Hemashree's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical)
+![Hemashree's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hemashree024&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hemashree024&layout=compact&theme=radical)
 
 ---
 
