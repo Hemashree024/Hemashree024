@@ -33,11 +33,22 @@ I work on building smart applications using PyTorch, Flask, and React, and use c
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hemashree024&layout=compact&theme=radical)
 
 ---
+## 📫 Let's Connect
 
-## 📫 Connect with Me
-[![Email](https://img.shields.io/badge/Email-hemasundar773%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hemasundar773@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Hemashree_S-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hemashree-s-7153b12b9/)
-[![GitHub](https://img.shields.io/badge/GitHub-Hemashree024-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hemashree024)
+<p align="center">
+  <a href="https://www.linkedin.com/in/hemashree-s-7153b12b9/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/Hemashree024" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-black?style=flat&logo=github&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="mailto:hemasundar773@gmail.com">
+    <img src="https://img.icons8.com/ios-filled/20/ffffff/new-post.png" /> hemasundar773@gmail.com
+  </a>
+</p>
 
 
 ---
