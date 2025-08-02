@@ -35,9 +35,10 @@ I work on building smart applications using PyTorch, Flask, and React, and use c
 ---
 
 ## 📫 Connect with Me
-📧 **Email:** [hemasundar773@gmail.com](mailto:hemasundar773@gmail.com)  
-🔗 **LinkedIn:** [linkedin.com/in/hemashree-s](https://www.linkedin.com/in/hemashree-s-7153b12b9/)  
-💻 **GitHub:** [github.com/YOUR_GITHUB_USERNAME](https://github.com/YOUR_GITHUB_USERNAME)  
+[![Email](https://img.shields.io/badge/Email-hemasundar773%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hemasundar773@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Hemashree_S-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hemashree-s-7153b12b9/)
+[![GitHub](https://img.shields.io/badge/GitHub-Hemashree024-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hemashree024)
+
 
 ---
 ⭐ **Check out my repositories and feel free to connect!**
