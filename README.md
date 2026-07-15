@@ -1,32 +1,25 @@
-## Hi there 👋
+## 👋 About Me
 
-💻 **Computer Science Engineering Student**  
-🚀 Passionate about **AI, Machine Learning, Full-Stack Web Development, and Satellite Image Processing**  
- 
----
+Hi, I'm Hemashree S, a Computer Science Engineering student passionate about building real-world applications that are both practical and user-friendly.
 
-## 👩‍💻 About Me
-I'm a Computer Science Engineering student passionate about building innovative solutions in **AI, Machine Learning, and Full-Stack Development**.  
-I work on building smart applications using PyTorch, Flask, and React, and use computer vision for projects like processing satellite images.  
+I specialize in Android development using Kotlin and Jetpack Compose, with a strong focus on clean architecture (MVVM) and performance. I enjoy creating applications that solve real problems — like my health management app and SOS emergency alert system.
 
-🛠️ Working on AI models, full-stack web apps, and blockchain-based applications  
-🌱 Exploring deep learning, satellite imagery analysis, and emerging web technologies  
-🎯 Goal: Build impactful, real-world solutions through technology  
+Alongside mobile development, I’m also exploring Machine Learning and Generative AI
 
----
-## 🛠️ Skills & Technologies
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+I have hands-on experience with:
+- 📱 Android Development (Kotlin, Jetpack Compose)
+- 🌐 Web Technologies (HTML, CSS, JavaScript, React Native basics)
+- 🤖 Machine Learning (PyTorch, OpenCV)
+- 🔥 Backend & Databases (Flask, Firebase, MongoDB, SQLite)
 
----
+I love learning new technologies, building impactful projects, and continuously improving my development skills.
+
+🚀 Currently focused on:
+- Enhancing real-time mobile applications
+- Integrating AI into practical use-cases
+- Building scalable and clean architecture-based apps
+
+📫 Feel free to connect with me for collaboration or opportunities!
 
 ## 📊 GitHub Stats
 ![Hemashree's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hemashree024&show_icons=true&theme=radical)
