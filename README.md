@@ -1,31 +1,32 @@
 ## 👋 About Me
 
-Hi, I'm Hemashree S, a Computer Science Engineering student passionate about building real-world applications that are both practical and user-friendly.
+Hi, I'm Hemashree S, a Computer Science Engineering student passionate about building real-world applications that are practical, efficient, and user-friendly.
 
-I specialize in Android development using Kotlin and Jetpack Compose, with a strong focus on clean architecture (MVVM) and performance. I enjoy creating applications that solve real problems — like my health management app and SOS emergency alert system.
+I specialize in Android development using Kotlin and Jetpack Compose, with a strong focus on clean architecture (MVVM) and performance optimization. I enjoy developing applications that solve real-world problems — such as my health management app 
 
-Alongside mobile development, I’m also exploring Machine Learning and Generative AI
+Alongside mobile development, I am also exploring Machine Learning and Generative AI, working on projects involving computer vision and deep learning models.
 
-I have hands-on experience with:
-- 📱 Android Development (Kotlin, Jetpack Compose)
-- 🌐 Web Technologies (HTML, CSS, JavaScript, React Native basics)
-- 🤖 Machine Learning (PyTorch, OpenCV)
-- 🔥 Backend & Databases (Flask, Firebase, MongoDB, SQLite)
+## 💻 Skills & Technologies
 
-I love learning new technologies, building impactful projects, and continuously improving my development skills.
+- 📱 Android Development: Kotlin, Jetpack Compose  
+- 🌐 Web Technologies: HTML, CSS, JavaScript, React Native  
+- 🤖 Machine Learning: PyTorch, OpenCV  
+- 🔥 Backend & Databases: Flask, Firebase, MongoDB, SQLite  
 
-🚀 Currently focused on:
-- Enhancing real-time mobile applications
-- Integrating AI into practical use-cases
-- Building scalable and clean architecture-based apps
+I am passionate about learning new technologies, building impactful projects, and continuously improving my development skills.
 
-📫 Feel free to connect with me for collaboration or opportunities!
+## 🚀 Current Focus
+
+- Enhancing real-time mobile applications  
+- Integrating AI into practical use cases  
+- Building scalable applications with clean architecture  
 
 ## 📊 GitHub Stats
 ![Hemashree's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hemashree024&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hemashree024&layout=compact&theme=radical)
 
 ---
+
 ## 📫 Let's Connect
 
 <p align="center">
@@ -43,6 +44,6 @@ I love learning new technologies, building impactful projects, and continuously 
   </a>
 </p>
 
-
 ---
+
 ⭐ **Check out my repositories and feel free to connect!**
