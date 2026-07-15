@@ -21,9 +21,7 @@ I am passionate about learning new technologies, building impactful projects, an
 - Integrating AI into practical use cases  
 - Building scalable applications with clean architecture  
 
-## 📊 GitHub Stats
-![Hemashree's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hemashree024&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hemashree024&layout=compact&theme=radical)
+
 
 ---
 
